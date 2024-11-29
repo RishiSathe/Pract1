@@ -1,4 +1,2 @@
 # Pract1
-Just for practise
-RishiSathe
-RUdra Sathe
+THis is br1 branch file
